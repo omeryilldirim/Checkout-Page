@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "//omeryilldirim.github.io/Checkout-Page/static/css/main.c3b0cad0.css",
+    "main.js": "//omeryilldirim.github.io/Checkout-Page/static/js/main.d37d5ba0.js",
+    "index.html": "//omeryilldirim.github.io/Checkout-Page/index.html",
+    "main.c3b0cad0.css.map": "//omeryilldirim.github.io/Checkout-Page/static/css/main.c3b0cad0.css.map",
+    "main.d37d5ba0.js.map": "//omeryilldirim.github.io/Checkout-Page/static/js/main.d37d5ba0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c3b0cad0.css",
+    "static/js/main.d37d5ba0.js"
+  ]
+}
