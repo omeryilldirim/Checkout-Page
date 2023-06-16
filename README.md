@@ -2,7 +2,7 @@
 
 ## Description
 
-Built a checkout page to practice React states, Axios and MockAPI.
+Built a checkout page to practice React states, props, Axios and MockAPI.
 
 ### Topics are to be covered;
 
